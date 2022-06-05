@@ -1,9 +1,9 @@
-## Olá! Eu sou Tales Machado
+## Olá! Eu sou Tales Machado.
 
 - 🔭 Tabalho atualmente como atendente(por enquanto), estou focado nos estudos em T.I 
 - 🌱 Estudo tecnólogo em análise e desenvolvimento de sistemas, conhecimento em HTML, CSS, Javascript(bem básico), java e Kotlin. 
-- 📫 Contate-me em talesmachado2019@gmail.com
 - 😄 Pronouns: ele/dele
+-  📃 Um pouco sobre mim: Adoro aprender, na realidade sou muito curioso, sempre que não entendo alguma coisa, pergunto, ou até mesmo quando entendo, pergunto o por que foi feia aquela maneira.  
 
 <div align="center">
   <a href="https://github.com/TalesLoran">
@@ -18,14 +18,14 @@
   <img align="center" alt="Tales-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Tales-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   </div>
-  
+
   ##
-  
+
   <div>
     <a href = "mailto:talesmachado2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/tales-machado-98a6ba223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "https://twitter.com/TalesMachado13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href = "https://www.instagram.com/taleslmachado/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    
+
  ![Snake animation](https://github.com/TalesLoran/TalesLoran/blob/output/github-contribution-grid-snake.svg)
  </div>
