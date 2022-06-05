@@ -3,7 +3,7 @@
 - 🔭 Tabalho atualmente como atendente(por enquanto), estou focado nos estudos em T.I 
 - 🌱 Estudo tecnólogo em análise e desenvolvimento de sistemas, conhecimento em HTML, CSS, Javascript(bem básico), java e Kotlin. 
 - 😄 Pronouns: ele/dele
--  📃 Um pouco sobre mim: Adoro aprender, na realidade sou muito curioso, sempre que não entendo alguma coisa, pergunto, ou até mesmo quando entendo, pergunto o por que foi feia aquela maneira.  
+-  📃 Um pouco sobre mim: Adoro aprender, na realidade sou muito curioso, sempre que não entendo alguma coisa, pergunto, ou até mesmo quando entendo, pergunto o por que foi feito da quela maneira.  
 
 <div align="center">
   <a href="https://github.com/TalesLoran">
